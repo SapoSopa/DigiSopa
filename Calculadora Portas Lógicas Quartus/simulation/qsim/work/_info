@@ -1,0 +1,274 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Users/lgpss/Desktop/SD_Projeto1/simulation/qsim
+vComparadorCSinal
+Z1 !s110 1701438438
+!i10b 1
+!s100 iMl55fRhF3ez81SE3@2DH2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`H_STH046l40UMDk?SWzW0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dD:/Users/lgpss/Desktop/projeto1_sd_final/simulation/qsim
+Z5 w1701438437
+Z6 8Projeto_ULA_Principal.vo
+Z7 FProjeto_ULA_Principal.vo
+!i122 30
+L0 32 439
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1701438438.000000
+Z10 !s107 Projeto_ULA_Principal.vo|
+Z11 !s90 -work|work|Projeto_ULA_Principal.vo|
+!i113 1
+Z12 o-work work
+Z13 tCvgOpt 0
+n@comparador@c@sinal
+vComparadorCSinal_vlg_vec_tst
+R1
+!i10b 1
+!s100 7g`:4Ae<eoK>f2V;_jMWh2
+R2
+IXY9PRl?=Hbf;lFgUe`fT[2
+R3
+R4
+w1701438433
+Z14 8Waveform.vwf.vt
+Z15 FWaveform.vwf.vt
+!i122 31
+L0 30 95
+R8
+r1
+!s85 0
+31
+R9
+Z16 !s107 Waveform.vwf.vt|
+Z17 !s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R12
+R13
+n@comparador@c@sinal_vlg_vec_tst
+vComparadorNsignal
+Z18 !s110 1701437212
+!i10b 1
+!s100 D41H6G=[>=8Pcc7G@ESCQ1
+R2
+IAT3Y67;[iQD2:ea[M]UfI2
+R3
+R4
+w1701437211
+R6
+R7
+!i122 24
+L0 32 307
+R8
+r1
+!s85 0
+31
+Z19 !s108 1701437212.000000
+R10
+R11
+!i113 1
+R12
+R13
+n@comparador@nsignal
+vComparadorNsignal_vlg_vec_tst
+R18
+!i10b 1
+!s100 OXl[^:49_E?=z4QMZhj2b2
+R2
+I6o>_;5PdQib8:UD4>]:ik3
+R3
+R4
+w1701437208
+R14
+R15
+!i122 25
+L0 30 64
+R8
+r1
+!s85 0
+31
+R19
+R16
+R17
+!i113 1
+R12
+R13
+n@comparador@nsignal_vlg_vec_tst
+vComplementoA2
+Z20 !s110 1700847752
+!i10b 1
+!s100 97kMA3:gLZ7>IZi_iTS080
+R2
+ITJTDJg3`aS;mL0eb187cK2
+R3
+R0
+w1700847751
+R6
+R7
+!i122 2
+L0 32 263
+R8
+r1
+!s85 0
+31
+Z21 !s108 1700847752.000000
+R10
+R11
+!i113 1
+R12
+R13
+n@complemento@a2
+vComplementoA2_vlg_vec_tst
+R20
+!i10b 1
+!s100 z3i1BUA:?fi2]YzLY_=Og3
+R2
+I92[E^IRi2PAPV`PkaMf833
+R3
+R0
+w1700847748
+R14
+R15
+!i122 3
+L0 30 118
+R8
+r1
+!s85 0
+31
+R21
+R16
+R17
+!i113 1
+R12
+R13
+n@complemento@a2_vlg_vec_tst
+vhard_block
+R1
+!i10b 1
+!s100 0`HPKf4lzFXgk?G]A:7iR3
+R2
+I;z4F1WXVgnF@Zc<13l]h70
+R3
+R4
+R5
+R6
+R7
+!i122 30
+L0 472 34
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vSubtrator
+Z22 !s110 1701125708
+!i10b 1
+!s100 eOYLZ4GLC:3LT=8;@:cNT0
+R2
+IFbQE[O>m`IS0kZbEUS^<f0
+R3
+Z23 dC:/Users/luizg/OneDrive/Documentos/SD_Projects/projeto1_sd_final/simulation/qsim
+w1701125707
+R6
+R7
+!i122 4
+L0 32 829
+R8
+r1
+!s85 0
+31
+Z24 !s108 1701125708.000000
+R10
+R11
+!i113 1
+R12
+R13
+n@subtrator
+vSubtrator_vlg_vec_tst
+R22
+!i10b 1
+!s100 a9V=WQDmz5k1<hS7=hb;n1
+R2
+I9=Q[NJ640ThV?^2C@2;fe3
+R3
+R23
+w1701125706
+R14
+R15
+!i122 5
+L0 30 156
+R8
+r1
+!s85 0
+31
+R24
+R16
+R17
+!i113 1
+R12
+R13
+n@subtrator_vlg_vec_tst
+vULA_Principal
+Z25 !s110 1701288663
+!i10b 1
+!s100 jDVDSf8bdFkgU]f`Ba9d:1
+R2
+IN3nE[Tm;KLl1In6ni71ch3
+R3
+R4
+w1701288662
+R6
+R7
+!i122 20
+L0 32 3376
+R8
+r1
+!s85 0
+31
+Z26 !s108 1701288663.000000
+R10
+R11
+!i113 1
+R12
+R13
+n@u@l@a_@principal
+vULA_Principal_vlg_vec_tst
+R25
+!i10b 1
+!s100 IQolKLhFY=zhl:lP0o6803
+R2
+IOzSC7Rb0Hn`TTEGce_`2Z0
+R3
+R4
+w1701288659
+R14
+R15
+!i122 21
+L0 30 113
+R8
+r1
+!s85 0
+31
+R26
+R16
+R17
+!i113 1
+R12
+R13
+n@u@l@a_@principal_vlg_vec_tst

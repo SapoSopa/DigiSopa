@@ -1,0 +1,285 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Status",
+					"strict" : false
+				},
+				{
+					"name" : "SinalA",
+					"strict" : false
+				},
+				{
+					"name" : "SInalB",
+					"strict" : false
+				},
+				{
+					"name" : "SinalResu",
+					"strict" : false
+				},
+				{
+					"name" : "Abits[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Abits[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Abits[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Abits[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Bbits[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Bbits[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Bbits[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Bbits[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SaidaF[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SaidaF[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SaidaF[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SaidaF[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SaidaF[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SaidaF[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteADi[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteADi[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteADi[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteADi[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteADi[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteADi[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteADi[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteAEsq[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteAEsq[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteAEsq[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteAEsq[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteBDi[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteBDi[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteBDi[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteBDi[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteBDi[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteBDi[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteBDi[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteBEsq[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteBEsq[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteBEsq[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteBEsq[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteResuDi[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteResuDi[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteResuDi[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteResuDi[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteResuDi[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteResuDi[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteResuDi[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteResuEsq[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteResuEsq[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteResuEsq[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteResuEsq[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteResuEsq[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SeteResuEsq[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Spin[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Spin[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Spin[0]",
+					"strict" : false
+				},
+				{
+					"name" : "S[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B[4]",
+					"strict" : false
+				},
+				{
+					"name" : "A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "A[4]",
+					"strict" : false
+				},
+				{
+					"name" : "S[0]",
+					"strict" : false
+				},
+				{
+					"name" : "S[1]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

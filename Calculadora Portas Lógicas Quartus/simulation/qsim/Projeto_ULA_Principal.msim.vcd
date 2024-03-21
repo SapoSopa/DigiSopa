@@ -1,0 +1,200 @@
+$comment
+	File created using the following command:
+		vcd file Projeto_ULA_Principal.msim.vcd -direction
+$end
+$date
+	Fri Dec 01 10:47:18 2023
+$end
+$version
+	ModelSim Version 2020.1
+$end
+$timescale
+	1ps
+$end
+
+$scope module ComparadorCSinal_vlg_vec_tst $end
+$var reg 5 ! A [4:0] $end
+$var reg 5 " B [4:0] $end
+$var wire 1 # AeqB $end
+$var wire 1 $ AmaiorqB $end
+$var wire 1 % AmenorqB $end
+
+$scope module i1 $end
+$var wire 1 & gnd $end
+$var wire 1 ' vcc $end
+$var wire 1 ( unknown $end
+$var tri1 1 ) devclrn $end
+$var tri1 1 * devpor $end
+$var tri1 1 + devoe $end
+$var wire 1 , AeqB~output_o $end
+$var wire 1 - AmenorqB~output_o $end
+$var wire 1 . AmaiorqB~output_o $end
+$var wire 1 / B[4]~input_o $end
+$var wire 1 0 A[4]~input_o $end
+$var wire 1 1 inst19~combout $end
+$var wire 1 2 B[2]~input_o $end
+$var wire 1 3 A[2]~input_o $end
+$var wire 1 4 B[3]~input_o $end
+$var wire 1 5 A[3]~input_o $end
+$var wire 1 6 inst|inst14~0_combout $end
+$var wire 1 7 A[0]~input_o $end
+$var wire 1 8 B[1]~input_o $end
+$var wire 1 9 B[0]~input_o $end
+$var wire 1 : A[1]~input_o $end
+$var wire 1 ; inst|inst14~1_combout $end
+$var wire 1 < inst4~1_combout $end
+$var wire 1 = inst4~0_combout $end
+$var wire 1 > inst4~combout $end
+$var wire 1 ? inst12~combout $end
+$var wire 1 @ inst|inst16~1_combout $end
+$var wire 1 A inst|inst16~0_combout $end
+$var wire 1 B inst|inst15~combout $end
+$var wire 1 C inst25~0_combout $end
+$var wire 1 D inst|inst16~2_combout $end
+$var wire 1 E inst26~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1000 !
+b111 "
+0#
+1$
+0%
+0&
+1'
+x(
+1)
+1*
+1+
+0,
+0-
+1.
+0/
+00
+01
+12
+03
+04
+15
+06
+07
+18
+19
+0:
+0;
+1<
+1=
+1>
+0?
+0@
+1A
+1B
+0C
+1D
+1E
+$end
+#40000
+b11 "
+b1 "
+b0 "
+09
+08
+02
+0<
+1;
+#80000
+b11000 !
+b10000 "
+b10100 "
+b10110 "
+b10111 "
+19
+18
+12
+1/
+10
+1<
+0;
+0E
+1C
+1-
+0.
+0$
+1%
+#120000
+b111 "
+b11 "
+b1 "
+b0 "
+09
+08
+02
+0/
+0<
+1;
+11
+#160000
+b1000 "
+b11000 "
+b11001 "
+19
+14
+1/
+1<
+0;
+0A
+16
+01
+0B
+0D
+0C
+1E
+1.
+0-
+0%
+1$
+#190000
+b10000 !
+b0 !
+b10001 "
+b1 "
+b0 "
+09
+04
+0/
+05
+00
+0<
+1;
+0=
+0E
+1C
+1-
+0.
+0>
+1B
+0$
+1%
+1?
+1,
+1#
+0C
+0-
+0%
+#250000
+b1000 !
+15
+1A
+1=
+06
+1D
+1>
+1E
+0?
+0,
+1.
+1$
+0#
+#1000000
