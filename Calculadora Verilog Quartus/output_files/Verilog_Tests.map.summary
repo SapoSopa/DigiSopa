@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Mar 01 16:45:52 2024
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : Verilog_Tests
+Top-level Entity Name : ULA
+Family : Cyclone IV E
+Total logic elements : 2,028
+    Total combinational functions : 2,023
+    Dedicated logic registers : 77
+Total registers : 77
+Total pins : 38
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

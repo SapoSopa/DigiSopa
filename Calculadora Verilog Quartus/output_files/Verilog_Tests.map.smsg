@@ -1,0 +1,6 @@
+Warning (10268): Verilog HDL information at Per_Clock.v(11): always construct contains both blocking and non-blocking assignments File: D:/Users/lgpss/Desktop/verilog_tests/Per_Clock.v Line: 11
+Warning (10268): Verilog HDL information at lcdcon.v(166): always construct contains both blocking and non-blocking assignments File: D:/Users/lgpss/Desktop/verilog_tests/lcdcon.v Line: 166
+Warning (10268): Verilog HDL information at lcdNew.v(40): always construct contains both blocking and non-blocking assignments File: D:/Users/lgpss/Desktop/verilog_tests/lcdNew.v Line: 40
+Warning (10268): Verilog HDL information at lcdNew.v(136): always construct contains both blocking and non-blocking assignments File: D:/Users/lgpss/Desktop/verilog_tests/lcdNew.v Line: 136
+Warning (10268): Verilog HDL information at multi.v(9): always construct contains both blocking and non-blocking assignments File: D:/Users/lgpss/Desktop/verilog_tests/multi.v Line: 9
+Warning (10268): Verilog HDL information at lcdController.v(58): always construct contains both blocking and non-blocking assignments File: D:/Users/lgpss/Desktop/verilog_tests/lcdController.v Line: 58
