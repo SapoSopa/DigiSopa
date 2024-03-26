@@ -1,5 +1,5 @@
 # DigitalSopa
-Digital System/Sistemas digitais
+Digital Systems/Sistemas digitais
 
 Ambas as pastas desse repositório são referentes a projetos da cadeira de Sistemas Digitais.
 As duas são resultados dos esforços meu e de Luiz Gustavo "https://github.com/Zed201".
